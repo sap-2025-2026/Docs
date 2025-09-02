@@ -1,2 +1,6 @@
+### Software Architecture and Platforms - ISI LM - a.y. 2025/2026
+
 # Docs
-Notes and Documents
+
+This repo contains general documents and notes about the course.
+
