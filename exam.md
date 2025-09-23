@@ -2,7 +2,7 @@
 
 # About the Exam
 	
-v1.0.0-20250902
+v1.1.0-20250923
 
 The exam includes two parts: a (1) practical part and (2) an oral discussion. 
 
