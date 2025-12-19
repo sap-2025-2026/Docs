@@ -2,7 +2,7 @@
 
 # About the Exam
 	
-v1.0.0-20250902
+v1.1.0-20250923
 
 The exam includes two parts: a (1) practical part and (2) an oral discussion. 
 
@@ -13,7 +13,7 @@ The practical part can be done in two *alternative* ways:
 - Developing the **assignments** proposed during the course. 
   - The assignments are small projects about a part of the course. 
   - There will be 4 assignments, corresponding to the main parts of the course
-  - Assignments are meant to be done during the course, with a soft deadline. 
+  - Assignments are meant to be done during the course (but there are no deadlines for delivering them) 
   - Assignments are **not** partial exams, there is not a single evaluation for each one. They constitute the material used to structure the oral discussion.
 
 - Doing a single a **project**. For the project, there are two further options:
