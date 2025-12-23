@@ -32,7 +32,7 @@ The practical part can be done in two *alternative* ways:
 ### Oral discussion
 
 The oral discussion is about both the practical part and, more generally, the key concepts and methods discussed during the course. The discussion is **individual**.
-
+- Examples of questions can be found [here](https://github.com/sap-2025-2026/Docs/blob/main/questions.md). 
 - The discussion about the single project includes 2 main parts:
   - a first part – about 20 mins – involving a presentation of the project, using slides or whatever tool. The presentation should be effective in reporting:
     - the idea/motivation
